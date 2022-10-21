@@ -1,0 +1,74 @@
+# Blender 3.3.0 MTL File: 'G17 gun.blend'
+# www.blender.org
+
+newmtl Barrel
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/gaspard/AppData/Local/Temp/A-12 gun/Texture Black/Pistol A-12_Barrel_BaseColor.png
+map_Ns C:/Users/gaspard/AppData/Local/Temp/A-12 gun/Texture Black/Pistol A-12_Barrel_OcclusionRoughnessMetallic.png
+map_refl C:/Users/gaspard/AppData/Local/Temp/A-12 gun/Texture Black/Pistol A-12_Barrel_OcclusionRoughnessMetallic.png
+map_Bump -bm 1.000000 C:/Users/gaspard/AppData/Local/Temp/A-12 gun/Texture Black/Pistol A-12_Barrel_Normal.png
+
+newmtl Bullet
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/gaspard/AppData/Local/Temp/A-12 gun/Texture Black/Pistol A-12_Bullet_BaseColor.png
+map_Ns C:/Users/gaspard/AppData/Local/Temp/A-12 gun/Texture Black/Pistol A-12_Bullet_OcclusionRoughnessMetallic.png
+map_refl C:/Users/gaspard/AppData/Local/Temp/A-12 gun/Texture Black/Pistol A-12_Bullet_OcclusionRoughnessMetallic.png
+map_Bump -bm 1.000000 C:/Users/gaspard/AppData/Local/Temp/A-12 gun/Texture Black/Pistol A-12_Bullet_Normal.png
+
+newmtl Gun
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/gaspard/AppData/Local/Temp/A-12 gun/Texture Black/Gun only/Pistol A-12 Gun only_Gun_BaseColor.png
+map_Ns C:/Users/gaspard/AppData/Local/Temp/A-12 gun/Texture Black/Gun only/Pistol A-12 Gun only_Gun_OcclusionRoughnessMetallic.png
+map_refl C:/Users/gaspard/AppData/Local/Temp/A-12 gun/Texture Black/Gun only/Pistol A-12 Gun only_Gun_OcclusionRoughnessMetallic.png
+map_Bump -bm 1.000000 C:/Users/gaspard/AppData/Local/Temp/A-12 gun/Texture Black/Gun only/Pistol A-12 Gun only_Gun_Normal.png
+
+newmtl Mag
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/gaspard/AppData/Local/Temp/A-12 gun/Texture Black/Pistol A-12_Mag_BaseColor.png
+map_Ns C:/Users/gaspard/AppData/Local/Temp/A-12 gun/Texture Black/Pistol A-12_Mag_OcclusionRoughnessMetallic.png
+map_refl C:/Users/gaspard/AppData/Local/Temp/A-12 gun/Texture Black/Pistol A-12_Mag_OcclusionRoughnessMetallic.png
+map_Bump -bm 1.000000 C:/Users/gaspard/AppData/Local/Temp/A-12 gun/Texture Black/Pistol A-12_Mag_Normal.png
+
+newmtl Sight
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/gaspard/AppData/Local/Temp/A-12 gun/Texture Black/Pistol A-12_Sight_BaseColor.png
+map_Ns C:/Users/gaspard/AppData/Local/Temp/A-12 gun/Texture Black/Pistol A-12_Sight_OcclusionRoughnessMetallic.png
+map_refl C:/Users/gaspard/AppData/Local/Temp/A-12 gun/Texture Black/Pistol A-12_Sight_OcclusionRoughnessMetallic.png
+map_Bump -bm 1.000000 C:/Users/gaspard/AppData/Local/Temp/A-12 gun/Texture Black/Pistol A-12_Sight_Normal.png
+
+newmtl Slide
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/gaspard/AppData/Local/Temp/A-12 gun/Texture Black/Pistol A-12_Slide_BaseColor.png
+map_Ns C:/Users/gaspard/AppData/Local/Temp/A-12 gun/Texture Black/Pistol A-12_Slide_OcclusionRoughnessMetallic.png
+map_refl C:/Users/gaspard/AppData/Local/Temp/A-12 gun/Texture Black/Pistol A-12_Slide_OcclusionRoughnessMetallic.png
+map_Bump -bm 1.000000 C:/Users/gaspard/AppData/Local/Temp/A-12 gun/Texture Black/Pistol A-12_Slide_Normal.png
